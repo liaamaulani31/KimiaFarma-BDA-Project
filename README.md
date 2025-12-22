@@ -11,8 +11,8 @@ The scope of this project is to evaluate Kimia Farma's business performance duri
 The visualization results will be presented in an interactive dashboard, enabling more efficient data-driven decision-making.
 
 ## 📁 File in this Repository
-- kf_performance_analytics.sql → Main Query
-- Business Performance Dashboard.png → Dashboard Preview
+- [kf_performance_analytics.sql](https://github.com/liaamaulani31/KimiaFarma-BDA-Project/blob/5a5430e17338d5708f1f992c98f23363a78c5c45/kf_performance_analytics.sql) → Main Query
+- [Business Performance Dashboard.png](https://github.com/liaamaulani31/KimiaFarma-BDA-Project/blob/5a5430e17338d5708f1f992c98f23363a78c5c45/Business%20Performance%20Dashboard.png) → Dashboard Preview
   
 ## 📈 Key Findings
 - Premium products (>Rp 500k) contribute 79.9% of total profit

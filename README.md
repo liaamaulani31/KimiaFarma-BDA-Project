@@ -28,5 +28,5 @@ The visualization results will be presented in an interactive dashboard, enablin
 
 ## 🔗 Project Links
 **An Interactive Dashboard** : https://lookerstudio.google.com/reporting/e8fbc2c0-a794-4785-8cc7-915f0354caec  
-**Video Presentation** :   https://drive.google.com/file/d/140LHjJLUHxVrJjLlFu78xHa2LU9SFnsd/view?usp=sharing
+**Video Presentation** :   https://drive.google.com/file/d/140LHjJLUHxVrJjLlFu78xHa2LU9SFnsd/view?usp=sharing  
 **Final Deck**: https://docs.google.com/presentation/d/1r8CR9iGi8DULPUX0-GCrYAdakUcAhT9c/edit?usp=sharing&ouid=117380890139441454822&rtpof=true&sd=true
